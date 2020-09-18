@@ -1,0 +1,118 @@
+
+
+#canvas{
+    width: 300px;
+    height: 300px;
+    background-color: ivory;
+    margin: auto auto;
+    box-shadow:15px 15px 10px gray;
+}
+
+#first-row{
+    height: 75%;
+    width: 100%;
+}
+
+#big-rectangle{
+    width: 75%;
+    height: 100%;
+}
+
+
+
+.right{
+    float: right;
+}
+
+
+#fisrt-column{
+    width: 22%;
+    height: 100%;
+    
+}
+
+#divider1{
+    width: 3%;
+    height: 100%;
+}
+
+#divider2{
+    height: 9px;
+    width: 75px;
+    
+}
+
+#divider3{
+   width: 33px;
+   height: 10px;
+
+}
+
+
+#divider4{
+   height: 66px;
+   width: 10px;
+}
+
+#divider5{
+    height: 66px;
+    width: 10px;
+}
+
+#second-row{
+    height: 9px;
+    width: 100%;
+}
+
+#first-medium-rectangle{
+    
+    height: 105px;
+    width: 75px;
+}
+
+#second-medium-rectangle{
+    width: 75px;
+    height: 105px;
+}
+
+#first-tiny-rectangle{
+    width: 33px;
+    height: 28px;
+}
+
+#second-tiny-rectangle{
+    width: 33px;
+    height: 28px;
+}
+
+#bottom-right-column{
+    height: 66px;
+    width: 33px;
+}
+
+#bottom-middle-box{
+    height: 66px;
+    width: 180px;
+}
+
+#bottom-left-column{
+    width: 75px;
+    height: 66px;
+}
+
+.black{
+    background-color: black;
+}
+
+.red{
+    background-color: red;
+ }
+
+
+
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
